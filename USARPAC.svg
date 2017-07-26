@@ -1,0 +1,25 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="600" height="600">
+	<circle cx="300" cy="300" r="300"
+		style="fill:blue;stroke:none" />
+	<circle cx="300" cy="300" r="274"
+		style="fill:none;stroke:#9cf;stroke-width:4" />
+	<path d="M 312.3125,206.65625 147.59375,212 225.3125,357.34375 234.96875,308.65625 409.90625,409.65625 449.90625,340.34375 274.96875,239.34375 312.3125,206.65625 z"
+		style="fill:#e00000;stroke:white;stroke-width:12;stroke-linejoin:miter;stroke-miterlimit:12" />
+	<path id="Star01"
+		d="M 212.32258,165.55474 192.24911,176.5632 197.5,198.84678 180.82729,183.15759 161.25695,195.03749 171.02611,174.33257 153.68009,159.39117 176.39047,162.28402 185.24039,141.16982 189.50701,163.66262 z"
+		style="fill:white;stroke:none" />
+	<use xlink:href="#Star01" transform="translate(131.69392,-79.549512)" />
+	<use xlink:href="#Star01" transform="translate(185.20085,-101.46982)" />
+	<use xlink:href="#Star01" transform="translate(226.62773,-63.039359)" />
+	<use xlink:href="#Star01" transform="translate(207.12132,-12.374369)" />
+	<use xlink:href="#Star01" transform="translate(224.68239,36.416)" />
+	<use xlink:href="#Star01" transform="translate(250.3158,73.171573)" />
+	<use xlink:href="#Star01" transform="translate(278.60007,111.72287)" />
+	<use xlink:href="#Star01" transform="translate(42.77996,236.52722)" />
+	<use xlink:href="#Star01" transform="translate(0,271.529)" />
+	<use xlink:href="#Star01" transform="translate(67.175144,291.32799)" />
+	<use xlink:href="#Star01" transform="translate(24.395184,329.51176)" />
+</svg>
