@@ -1,0 +1,1 @@
+Please no base64 SVG's
